@@ -23,9 +23,9 @@ Pick a Kaggle competition from the following list. You have the choice of comple
 ## Timeline
 - **9:00am** - Project introduction & team assignment
 - **10:00am** - Slack Hov/Charlie what competition/dataset you've chosen (only one person needs to do this). Make sure the entire group is satisfied with the choice.
+- **4:00pm** - Submit a link to your project repository on Google classroom (only one partner needs to do this). You are also encouraged to submit your predictions to Kaggle as well (you can make a late submission if the competition is closed) and see how you did!
 - **4:30pm** - We will do lightning talks where you'll walk the rest of the class through your problem solving process and what you completed. No slides necessary; you can walk us through your Jupyter notebook if you prefer.
-- **5:00pm** - Submit a link to your project repository on Google classroom (only one partner needs to do this). You are also encouraged to submit your predictions to Kaggle as well (you can make a late submission if the competition is closed) and see how you did!
-- **6:00pm** - Complete the reflection form on Google Classroom (ALL teammates need to do this).
+- **5:00pm** - Complete the reflection form on Google Classroom (ALL teammates need to do this).
 
 ## Guidelines
 
